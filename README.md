@@ -17,4 +17,5 @@ Fitur :
 - CRUD List Server
 - Play, Pause, Stop
 
-![alt text](https://flic.kr/p/2iYY5c1)
+![Github Logo](\resources\Portfolio1-2.JPG)
+![Github Logo](\resources\Portfolio1-1.JPG)
