@@ -1,0 +1,307 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="tbl" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="tbl">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Delay" type="xs:string" minOccurs="0" />
+                <xs:element name="Layer" type="xs:string" minOccurs="0" />
+                <xs:element name="Durasi" type="xs:string" minOccurs="0" />
+                <xs:element name="Format" type="xs:string" minOccurs="0" />
+                <xs:element name="StartDelay" type="xs:string" minOccurs="0" />
+                <xs:element name="Group" type="xs:string" minOccurs="0" />
+                <xs:element name="ServerName" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <tbl>
+    <Name>INTRO</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi />
+    <Format />
+    <StartDelay />
+    <Group>INTRO</Group>
+  </tbl>
+  <tbl>
+    <Name>BREAK 1</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi />
+    <Format />
+    <StartDelay />
+    <Group>BREAK 1</Group>
+  </tbl>
+  <tbl>
+    <Name>SESSION 1</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi />
+    <Format />
+    <StartDelay />
+    <Group>SESSION 1</Group>
+  </tbl>
+  <tbl>
+    <Name>SESSION 2</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi />
+    <Format />
+    <StartDelay />
+    <Group>SESSION 2</Group>
+  </tbl>
+  <tbl>
+    <Name>BREAK 2</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi />
+    <Format />
+    <StartDelay />
+    <Group>BREAK 2</Group>
+  </tbl>
+  <tbl>
+    <Name>SESSION 3</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi />
+    <Format />
+    <StartDelay />
+    <Group>SESSION 3</Group>
+  </tbl>
+  <tbl>
+    <Name>SESSION 4</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi />
+    <Format />
+    <StartDelay />
+    <Group>SESSION 4</Group>
+  </tbl>
+  <tbl>
+    <Name>CLOSE</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi />
+    <Format />
+    <StartDelay />
+    <Group>CLOSE</Group>
+  </tbl>
+  <tbl>
+    <Name>1. [NEW] Introduction to the course/1. Introduction to this course</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:04:38.400</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>INTRO</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>1. [NEW] Introduction to the course/3. How to get the most out of this course</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:01:50.267</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>INTRO</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>WIPE</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:00:01.240</Durasi>
+    <Format>mov</Format>
+    <StartDelay>0</StartDelay>
+    <Group>BREAK 1</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>WIPE</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:00:01.240</Durasi>
+    <Format>mov</Format>
+    <StartDelay>0</StartDelay>
+    <Group>BREAK 2</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>11. WHAT NEXT/1. Become better at Laravel</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:01:51.334</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 1</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>2. [NEW] Project one - Build a tasks manager application/1. Installing Laravel</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:04:53.067</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 1</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>2. [NEW] Project one - Build a tasks manager application/10. Model view controller</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:08:20.534</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 1</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>2. [NEW] Project one - Build a tasks manager application/11. Styling views with bootstrap</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:05:09.700</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 1</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>2. [NEW] Project one - Build a tasks manager application/12. Displaying a single todo</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:11:05.867</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 1</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>2. [NEW] Project one - Build a tasks manager application/14. Introduction to layout files</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:07:29.500</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 2</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>2. [NEW] Project one - Build a tasks manager application/15. Creating todos</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:13:41.234</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 2</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>2. [NEW] Project one - Build a tasks manager application/16. Validating data</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:05:32.634</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 2</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>2. [NEW] Project one - Build a tasks manager application/17. Updating todos</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:11:39.200</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 2</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>2. [NEW] Project one - Build a tasks manager application/18. Deleting todos</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:03:17.034</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 2</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>10. Project Four - Complete Ecommerce/1. Products CRUD</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:10:01.167</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 3</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>10. Project Four - Complete Ecommerce/2. Products factory</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:02:50.300</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 3</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>10. Project Four - Complete Ecommerce/3. Displaying products</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:08:00.534</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 3</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>10. Project Four - Complete Ecommerce/4. Customizing default Laravel paginator</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:04:38.634</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 3</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>10. Project Four - Complete Ecommerce/5. Product details page</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:04:02.867</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 3</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>11. WHAT NEXT/1. Become better at Laravel</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:01:51.334</Durasi>
+    <Format>mp4</Format>
+    <StartDelay>0</StartDelay>
+    <Group>SESSION 4</Group>
+    <ServerName />
+  </tbl>
+  <tbl>
+    <Name>WIPE</Name>
+    <Delay>0</Delay>
+    <Layer>10</Layer>
+    <Durasi>00:00:01.240</Durasi>
+    <Format>mov</Format>
+    <StartDelay>0</StartDelay>
+    <Group>CLOSE</Group>
+    <ServerName />
+  </tbl>
+</NewDataSet>

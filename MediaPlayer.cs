@@ -806,7 +806,7 @@ namespace VideoPlayer
                 detik2 = int.Parse(durd[0]);
             }
             //play video live
-            videoLive.playlist.stop();
+            //videoLive.playlist.stop();
             videoLive.playlist.clear();
             videoLive.playlist.add("file:///" + path + "\\" + namafile + "." + format);
             videoLive.playlist.play();
@@ -2230,7 +2230,7 @@ namespace VideoPlayer
 
         private void videoPreview_MediaPlayerPlaying(object sender, EventArgs e)
         {
-            lblFullTime.Text = TimeFormat((int)videoPreview.input.Length);
+            lblFullTime.Text = TimeFormat((int)videoPreview.input.length);
             /*
             int fps = Convert.ToInt32(videoPreview.input.fps.ToString());
             int dur = TimeFormatSecond((int)videoPreview.input.Length);
@@ -2296,7 +2296,7 @@ namespace VideoPlayer
 
         private void videoLive_MediaPlayerPlaying(object sender, EventArgs e)
         {
-            lblFullTime2.Text = TimeFormat((int)videoLive.input.Length);
+            lblFullTime2.Text = TimeFormat((int)videoLive.input.length);
             /*
             int fps = Convert.ToInt32(videoLive.input.fps.ToString());
             int dur = TimeFormatSecond((int)videoLive.input.Length);

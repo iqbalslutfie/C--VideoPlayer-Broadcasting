@@ -423,3 +423,47 @@ D:\data\semester7\kerja praktek\KPCD baru\Program\VideoPlayer\VideoPlayer\obj\De
 D:\data\semester7\kerja praktek\KPCD baru\Program\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
 D:\data\semester7\kerja praktek\KPCD baru\Program\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
 D:\data\semester7\kerja praktek\KPCD baru\Program\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\Interop.WMPLib.dll
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.data_list.resources
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.Help.resources
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.MediaPlayer.resources
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.SettingServer.resources
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.exe
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.pdb
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\VideoPlayer.exe.config
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\VideoPlayer.exe
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\VideoPlayer.pdb
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\Interop.AXVLC.dll
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\Interop.WMPLib.dll
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\Interop.AXVLC.dll
+C:\Users\iqbalslutfie\Downloads\Compressed\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\AxInterop.AXVLC.dll
+E:\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\VideoPlayer.exe.config
+E:\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\VideoPlayer.exe
+E:\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\VideoPlayer.pdb
+E:\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\Interop.AXVLC.dll
+E:\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\Interop.WMPLib.dll
+E:\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\AxInterop.AXVLC.dll
+E:\Csharp-VideoPlayer-Broadcasting-master\bin\Debug\AxInterop.WMPLib.dll
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\Interop.AXVLC.dll
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\Interop.WMPLib.dll
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\AxInterop.AXVLC.dll
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\AxInterop.WMPLib.dll
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.data_list.resources
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.Help.resources
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.MediaPlayer.resources
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.Properties.Resources.resources
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.SettingServer.resources
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.exe
+E:\Csharp-VideoPlayer-Broadcasting-master\obj\Debug\VideoPlayer.pdb
