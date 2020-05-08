@@ -17,5 +17,5 @@ Fitur :
 - CRUD List Server
 - Play, Pause, Stop
 
-![Github Logo](\resources\Portfolio1-2.JPG)
-![Github Logo](\resources\Portfolio1-1.JPG)
+![Github Logo](/Resources/Portfolio1-2.JPG)
+![Github Logo](/Resources/Portfolio1-1.JPG)
