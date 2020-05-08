@@ -1,7 +1,6 @@
 # Csharp-VideoPlayer-Broadcasting
 Aplikasi media broadcasting tv dengan server lokal dibangun dengan bahasa pemrograman C# berbasiskan desktop.
 
-Aplikasi ini merupakan studi kasus
 
 Persyaratan :
 - VLC (membutuhkan library vlc yaitu AxVLC dan axAXVLC)
