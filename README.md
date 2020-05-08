@@ -17,5 +17,9 @@ Fitur :
 - CRUD List Server
 - Play, Pause, Stop
 
+Antarmuka :
+- Halaman Utama
 ![Github Logo](/Resources/Portfolio1-2.JPG)
+
+- Halaman Server
 ![Github Logo](/Resources/Portfolio1-1.JPG)
